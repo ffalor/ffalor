@@ -1,19 +1,19 @@
-**Current State**: Game in Progress, White's move.
+**Current State**: Game in Progress, Black's move.
 
 ![board](https://raw.githubusercontent.com/ffalor/ffalor/main/state/board.svg?)
 ## Valid Moves
 | Move From | Move To (Click One) |
 | --- | --- |
-| F2 | [F3](https://github.com/ffalor/ffalor/issues/new?title=move%7Cf2f3&body=Just+press+%27Submit+Issue%27+to+make+this+move.+Please+do+not+edit+the+title.), [F4](https://github.com/ffalor/ffalor/issues/new?title=move%7Cf2f4&body=Just+press+%27Submit+Issue%27+to+make+this+move.+Please+do+not+edit+the+title.) |
-| G2 | [G3](https://github.com/ffalor/ffalor/issues/new?title=move%7Cg2g3&body=Just+press+%27Submit+Issue%27+to+make+this+move.+Please+do+not+edit+the+title.), [G4](https://github.com/ffalor/ffalor/issues/new?title=move%7Cg2g4&body=Just+press+%27Submit+Issue%27+to+make+this+move.+Please+do+not+edit+the+title.) |
-| H2 | [H3](https://github.com/ffalor/ffalor/issues/new?title=move%7Ch2h3&body=Just+press+%27Submit+Issue%27+to+make+this+move.+Please+do+not+edit+the+title.), [H4](https://github.com/ffalor/ffalor/issues/new?title=move%7Ch2h4&body=Just+press+%27Submit+Issue%27+to+make+this+move.+Please+do+not+edit+the+title.) |
-| G1 | [F3](https://github.com/ffalor/ffalor/issues/new?title=move%7Cg1f3&body=Just+press+%27Submit+Issue%27+to+make+this+move.+Please+do+not+edit+the+title.), [H3](https://github.com/ffalor/ffalor/issues/new?title=move%7Cg1h3&body=Just+press+%27Submit+Issue%27+to+make+this+move.+Please+do+not+edit+the+title.) |
-| B2 | [B3](https://github.com/ffalor/ffalor/issues/new?title=move%7Cb2b3&body=Just+press+%27Submit+Issue%27+to+make+this+move.+Please+do+not+edit+the+title.), [B4](https://github.com/ffalor/ffalor/issues/new?title=move%7Cb2b4&body=Just+press+%27Submit+Issue%27+to+make+this+move.+Please+do+not+edit+the+title.) |
-| C2 | [C3](https://github.com/ffalor/ffalor/issues/new?title=move%7Cc2c3&body=Just+press+%27Submit+Issue%27+to+make+this+move.+Please+do+not+edit+the+title.), [C4](https://github.com/ffalor/ffalor/issues/new?title=move%7Cc2c4&body=Just+press+%27Submit+Issue%27+to+make+this+move.+Please+do+not+edit+the+title.) |
-| D2 | [D3](https://github.com/ffalor/ffalor/issues/new?title=move%7Cd2d3&body=Just+press+%27Submit+Issue%27+to+make+this+move.+Please+do+not+edit+the+title.), [D4](https://github.com/ffalor/ffalor/issues/new?title=move%7Cd2d4&body=Just+press+%27Submit+Issue%27+to+make+this+move.+Please+do+not+edit+the+title.) |
-| E2 | [E3](https://github.com/ffalor/ffalor/issues/new?title=move%7Ce2e3&body=Just+press+%27Submit+Issue%27+to+make+this+move.+Please+do+not+edit+the+title.), [E4](https://github.com/ffalor/ffalor/issues/new?title=move%7Ce2e4&body=Just+press+%27Submit+Issue%27+to+make+this+move.+Please+do+not+edit+the+title.) |
-| B1 | [A3](https://github.com/ffalor/ffalor/issues/new?title=move%7Cb1a3&body=Just+press+%27Submit+Issue%27+to+make+this+move.+Please+do+not+edit+the+title.), [C3](https://github.com/ffalor/ffalor/issues/new?title=move%7Cb1c3&body=Just+press+%27Submit+Issue%27+to+make+this+move.+Please+do+not+edit+the+title.) |
-| A2 | [A3](https://github.com/ffalor/ffalor/issues/new?title=move%7Ca2a3&body=Just+press+%27Submit+Issue%27+to+make+this+move.+Please+do+not+edit+the+title.), [A4](https://github.com/ffalor/ffalor/issues/new?title=move%7Ca2a4&body=Just+press+%27Submit+Issue%27+to+make+this+move.+Please+do+not+edit+the+title.) |
+| H7 | [H5](https://github.com/ffalor/ffalor/issues/new?title=move%7Ch7h5&body=Just+press+%27Submit+Issue%27+to+make+this+move.+Please+do+not+edit+the+title.), [H6](https://github.com/ffalor/ffalor/issues/new?title=move%7Ch7h6&body=Just+press+%27Submit+Issue%27+to+make+this+move.+Please+do+not+edit+the+title.) |
+| G8 | [F6](https://github.com/ffalor/ffalor/issues/new?title=move%7Cg8f6&body=Just+press+%27Submit+Issue%27+to+make+this+move.+Please+do+not+edit+the+title.), [H6](https://github.com/ffalor/ffalor/issues/new?title=move%7Cg8h6&body=Just+press+%27Submit+Issue%27+to+make+this+move.+Please+do+not+edit+the+title.) |
+| B7 | [B5](https://github.com/ffalor/ffalor/issues/new?title=move%7Cb7b5&body=Just+press+%27Submit+Issue%27+to+make+this+move.+Please+do+not+edit+the+title.), [B6](https://github.com/ffalor/ffalor/issues/new?title=move%7Cb7b6&body=Just+press+%27Submit+Issue%27+to+make+this+move.+Please+do+not+edit+the+title.) |
+| D7 | [D5](https://github.com/ffalor/ffalor/issues/new?title=move%7Cd7d5&body=Just+press+%27Submit+Issue%27+to+make+this+move.+Please+do+not+edit+the+title.), [D6](https://github.com/ffalor/ffalor/issues/new?title=move%7Cd7d6&body=Just+press+%27Submit+Issue%27+to+make+this+move.+Please+do+not+edit+the+title.) |
+| E7 | [E5](https://github.com/ffalor/ffalor/issues/new?title=move%7Ce7e5&body=Just+press+%27Submit+Issue%27+to+make+this+move.+Please+do+not+edit+the+title.), [E6](https://github.com/ffalor/ffalor/issues/new?title=move%7Ce7e6&body=Just+press+%27Submit+Issue%27+to+make+this+move.+Please+do+not+edit+the+title.) |
+| F7 | [F5](https://github.com/ffalor/ffalor/issues/new?title=move%7Cf7f5&body=Just+press+%27Submit+Issue%27+to+make+this+move.+Please+do+not+edit+the+title.), [F6](https://github.com/ffalor/ffalor/issues/new?title=move%7Cf7f6&body=Just+press+%27Submit+Issue%27+to+make+this+move.+Please+do+not+edit+the+title.) |
+| B8 | [A6](https://github.com/ffalor/ffalor/issues/new?title=move%7Cb8a6&body=Just+press+%27Submit+Issue%27+to+make+this+move.+Please+do+not+edit+the+title.), [C6](https://github.com/ffalor/ffalor/issues/new?title=move%7Cb8c6&body=Just+press+%27Submit+Issue%27+to+make+this+move.+Please+do+not+edit+the+title.) |
+| A7 | [A5](https://github.com/ffalor/ffalor/issues/new?title=move%7Ca7a5&body=Just+press+%27Submit+Issue%27+to+make+this+move.+Please+do+not+edit+the+title.), [A6](https://github.com/ffalor/ffalor/issues/new?title=move%7Ca7a6&body=Just+press+%27Submit+Issue%27+to+make+this+move.+Please+do+not+edit+the+title.) |
+| C7 | [C5](https://github.com/ffalor/ffalor/issues/new?title=move%7Cc7c5&body=Just+press+%27Submit+Issue%27+to+make+this+move.+Please+do+not+edit+the+title.), [C6](https://github.com/ffalor/ffalor/issues/new?title=move%7Cc7c6&body=Just+press+%27Submit+Issue%27+to+make+this+move.+Please+do+not+edit+the+title.) |
+| G7 | [G5](https://github.com/ffalor/ffalor/issues/new?title=move%7Cg7g5&body=Just+press+%27Submit+Issue%27+to+make+this+move.+Please+do+not+edit+the+title.), [G6](https://github.com/ffalor/ffalor/issues/new?title=move%7Cg7g6&body=Just+press+%27Submit+Issue%27+to+make+this+move.+Please+do+not+edit+the+title.) |
 
 ## Previous Game
 **Winner:** N/A
@@ -23,7 +23,7 @@
 ## Overall Stats
 **Total Games:** 0
 
-**Total Moves:** 0 
+**Total Moves:** 1 
 
 **White Wins:** 0
 

@@ -1,0 +1,35 @@
+name: Handle Opened Issue
+
+on:
+  issues:
+    types: [opened]
+jobs:
+  release-linux-amd64:
+    permissions:
+      issues: write
+      contents: write
+    name: Handle Issue
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+      - uses: actions/setup-go@v2
+        with:
+          go-version: "1.17.4"
+      - name: build
+        run: |
+          go build -o ./chess.exe
+      - name: Run chess.exe
+        run: |
+          ./chess.exe \
+           -title="${{ github.event.issue.title }}" \
+           -board="./state/board.svg" \
+           -pgn="./state/game.pgn" \
+           -stats="./state/stats.yml" \
+           -readme="./README.md"
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "${{ github.event.issue.title }} by @${{ github.event.issue.user.login }}"
+          commit_user_name: Frank Falor
+          commit_user_email: 35144141+ffalor@users.noreply.github.com
+          commit_author: Frank Falor <35144141+ffalor@users.noreply.github.com>

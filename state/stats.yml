@@ -1,0 +1,9 @@
+moves: 0
+Wins:
+  black: 0
+  draw: 0
+  white: 0
+previous:
+  method: N/A
+  winner: N/A
+

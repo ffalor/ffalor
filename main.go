@@ -98,7 +98,7 @@ func renderReadMe(game *chess.Game, f *os.File, boardFilePath string, stats stat
 	fmt.Fprintf(f, "**White Wins:** %d\n\n", whiteWins)
 	fmt.Fprintf(f, "**Black Wins:** %d\n\n", blackWins)
 	fmt.Fprintf(f, "**Draws:** %d\n\n", draws)
-	fmt.Fprintf(f, "--- \n Credit to [timburgan](https://github.com/timburgan/timburgan) for doing this first, I just wanted to try it in `Go`"
+	fmt.Fprintf(f, "--- \n Credit to [timburgan](https://github.com/timburgan/timburgan) for doing this first, I just wanted to try it in `Go`")
 }
 
 func writeBoardImage(path string, board chess.Board) {
